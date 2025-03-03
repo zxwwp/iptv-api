@@ -1,12 +1,17 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/iptv-api/refs/heads/master/output/user_result.txt
+http://27.109.223.213:15000/Sub?type=txt
+http://148.135.46.205:50001/Sub?type=txt
+http://166.0.199.145:50001/Sub?type=txt
+http://151.145.33.94:50001/Sub?type=txt
+http://148.135.77.94:50001/Sub?type=txt
 http://jp-2.frp.one:25800/tv.m3u
 http://20.41.81.202:5000/Sub?type=txt
 http://140.238.2.76:5000/Sub?type=txt
 http://home.wwang.pw:35455/tv.m3u
+https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/iptv-api/refs/heads/master/output/user_result.txt
 http://www.lyyytv.cn/yt/zhibo/1.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 https://7337.kstore.space/twkj/tvzb.txt 
