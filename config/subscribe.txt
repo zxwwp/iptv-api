@@ -9,9 +9,9 @@ http://jp-2.frp.one:25800/tv.m3u
 http://20.41.81.202:5000/Sub?type=txt
 http://140.238.2.76:5000/Sub?type=txt
 http://home.wwang.pw:35455/tv.m3u
-https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/iptv-api/refs/heads/master/output/user_result.txt
+https://raw.kkgithub.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+https://raw.kkgithub.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.kkgithub.com/suxuang/myIPTV/main/ipv4.m3u
 http://www.lyyytv.cn/yt/zhibo/1.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 https://7337.kstore.space/twkj/tvzb.txt 
@@ -19,3 +19,4 @@ http://39.101.135.137:8081/xx3.txt
 http://tvbox6.icu/live.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
