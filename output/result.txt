@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-03 18:22:30,http://27.109.223.213:15000/TVOD/1000000006000268001/ystenlive/index.m3u8$澳门
+2025-03-04 06:19:01,http://27.109.223.213:15000/TVOD/1000000006000268001/ystenlive/index.m3u8$澳门
 
 🎉2025春晚,#genre#
 
@@ -100,73 +100,84 @@
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw$白名单
 中天新闻,http://122.117.109.23:8595/http/61.67.128.137:8081/hls/78/80/ch63max.m3u8$订阅源-1920x1080
 寰宇新闻,http://122.117.109.23:8570/http/61.67.128.137:8088/hls/76/818/ch62.m3u8$订阅源-1920x1080
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源-1920x1080
 
 🌏央视频道,#genre#
+CCTV16-4k,http://20.41.81.202:5000/TVOD/5000000008000023254/bestzb/index.m3u8$订阅源-1920x1080
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源-IPv6-1920x1080
 CCTV1,http://goo.bkpcp.top/mg/cctv1$订阅源-IPv6-1920x1080
 CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1$订阅源-1920x1080
-CCTV1,http://39.170.52.236:808/hls/1/index.m3u8$订阅源-1920x1080
+CCTV1,http://20.41.81.202:5000/TVOD/1000000001000018602/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源-IPv6-1920x1080
 CCTV2,http://goo.bkpcp.top/mg/cctv2$订阅源-IPv6-1920x1080
 CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2$订阅源-1920x1080
-CCTV2,http://39.170.52.236:808/hls/2/index.m3u8$订阅源-1920x1080
+CCTV2,http://20.41.81.202:5000/TVOD/1000000001000023315/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3$订阅源-IPv6-1920x1080
 CCTV3,http://goo.bkpcp.top/mg/cctv3$订阅源-IPv6-1920x1080
 CCTV3,http://tvbox6.icu/tv/migu.php?id=cctv3$订阅源-1920x1080
-CCTV3,http://39.170.52.236:808/hls/3/index.m3u8$订阅源-1920x1080
+CCTV3,http://20.41.81.202:5000/TVOD/1000000001000013682/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-IPv6-1920x1080
 CCTV4,http://goo.bkpcp.top/mg/cctv4$订阅源-IPv6-1920x1080
 CCTV4,http://tvbox6.icu/tv/migu.php?id=cctv4a$订阅源-1920x1080
-CCTV4,http://39.170.52.236:808/hls/4/index.m3u8$订阅源-1920x1080
+CCTV4,http://20.41.81.202:5000/TVOD/1000000005000265004/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5$订阅源-IPv6-1920x1080
 CCTV5,http://goo.bkpcp.top/mg/cctv5$订阅源-IPv6-1920x1080
 CCTV5,http://tvbox6.icu/tv/migu.php?id=cctv5$订阅源-1920x1080
-CCTV5,http://39.170.52.236:808/hls/5/index.m3u8$订阅源-1920x1080
+CCTV5,http://20.41.81.202:5000/TVOD/1000000005000025222/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源-IPv6-1920x1080
 CCTV5+,http://goo.bkpcp.top/mg/cctv5p$订阅源-IPv6-1920x1080
 CCTV5+,http://tvbox6.icu/tv/migu.php?id=cctv5p$订阅源-1920x1080
+CCTV5+,http://20.41.81.202:5000/TVOD/1000000001000018504/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6$订阅源-IPv6-1920x1080
 CCTV6,http://goo.bkpcp.top/mg/cctv6$订阅源-IPv6-1920x1080
 CCTV6,http://tvbox6.icu/tv/migu.php?id=cctv6$订阅源-1920x1080
-CCTV6,http://39.170.52.236:808/hls/6/index.m3u8$订阅源-1920x1080
+CCTV6,http://20.41.81.202:5000/TVOD/1000000001000001737/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7$订阅源-IPv6-1920x1080
 CCTV7,http://goo.bkpcp.top/mg/cctv7$订阅源-IPv6-1920x1080
 CCTV7,http://tvbox6.icu/tv/migu.php?id=cctv7$订阅源-1920x1080
+CCTV7,http://20.41.81.202:5000/TVOD/1000000001000024341/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8$订阅源-IPv6-1920x1080
 CCTV8,http://goo.bkpcp.top/mg/cctv8$订阅源-IPv6-1920x1080
 CCTV8,http://tvbox6.icu/tv/migu.php?id=cctv8$订阅源-1920x1080
-CCTV8,http://39.170.52.236:808/hls/8/index.m3u8$订阅源-1920x1080
+CCTV8,http://20.41.81.202:5000/TVOD/1000000001000031433/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9$订阅源-IPv6-1920x1080
 CCTV9,http://goo.bkpcp.top/mg/cctv9$订阅源-IPv6-1920x1080
 CCTV9,http://tvbox6.icu/tv/migu.php?id=cctv9$订阅源-1920x1080
-CCTV9,http://39.170.52.236:808/hls/9/index.m3u8$订阅源-1920x1080
+CCTV9,http://20.41.81.202:5000/TVOD/1000000001000014583/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10$订阅源-IPv6-1920x1080
 CCTV10,http://goo.bkpcp.top/mg/cctv10$订阅源-IPv6-1920x1080
 CCTV10,http://tvbox6.icu/tv/migu.php?id=cctv10$订阅源-1920x1080
-CCTV10,http://39.170.52.236:808/hls/10/index.m3u8$订阅源-1920x1080
+CCTV10,http://20.41.81.202:5000/TVOD/1000000001000023734/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11$订阅源-IPv6-1920x1080
 CCTV11,http://goo.bkpcp.top/mg/cctv11$订阅源-IPv6-1920x1080
 CCTV11,http://tvbox6.icu/tv/migu.php?id=cctv11$订阅源-1920x1080
-CCTV11,http://39.170.52.236:808/hls/11/index.m3u8$订阅源-1920x1080
+CCTV11,http://20.41.81.202:5000/TVOD/1000000005000265011/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12$订阅源-IPv6-1920x1080
 CCTV12,http://goo.bkpcp.top/mg/cctv12$订阅源-IPv6-1920x1080
 CCTV12,http://tvbox6.icu/tv/migu.php?id=cctv12$订阅源-1920x1080
+CCTV12,http://20.41.81.202:5000/TVOD/1000000001000032494/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13$订阅源-IPv6-1920x1080
 CCTV13,http://goo.bkpcp.top/mg/cctv13$订阅源-IPv6-1920x1080
 CCTV13,http://tvbox6.icu/tv/migu.php?id=cctv13$订阅源-1920x1080
-CCTV13,http://39.170.52.236:808/hls/13/index.m3u8$订阅源-1920x1080
+CCTV13,http://20.41.81.202:5000/TVOD/1000000002000021303/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14$订阅源-IPv6-1920x1080
 CCTV14,http://goo.bkpcp.top/mg/cctv14$订阅源-IPv6-1920x1080
 CCTV14,http://tvbox6.icu/tv/migu.php?id=cctv14$订阅源-1920x1080
+CCTV14,http://20.41.81.202:5000/TVOD/1000000001000008170/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源-IPv6-1920x1080
 CCTV15,http://goo.bkpcp.top/mg/cctv15$订阅源-IPv6-1920x1080
 CCTV15,http://tvbox6.icu/tv/migu.php?id=cctv15$订阅源-1920x1080
+CCTV15,http://20.41.81.202:5000/TVOD/1000000005000265014/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV16,http://goo.bkpcp.top/mg/cctv16$订阅源-IPv6-1920x1080
+CCTV16,http://20.41.81.202:5000/TVOD/1000000006000233002/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源-IPv6-1920x1080
 CCTV17,http://goo.bkpcp.top/mg/cctv17$订阅源-IPv6-1920x1080
 CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
+CCTV17,http://20.41.81.202:5000/TVOD/1000000006000268004/ystenlive/index.m3u8$订阅源-1920x1080
 
 💫卫视频道,#genre#
+纯享-4K,http://20.41.81.202:5000/TVOD/1000000004000011651/ystenlive/index.m3u8$订阅源-1920x1080
+华数-4K,http://20.41.81.202:5000/TVOD/2000000004000000014/hnbblive/index.m3u8$订阅源-1920x1080
 爱上-4K,rtsp://115.153.245.70/PLTV/88888888/224/3221227025/86502164.smil$白名单
 第一财经,http://tvbox6.icu/tv/migu.php?id=dycj$订阅源-1920x1080
 东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil$白名单
@@ -415,6 +426,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 甘肃卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221227039/87447727.smil$白名单
 甘肃卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221227039/87447727.smil$白名单
 甘肃卫视,http://tvbox6.icu/tv/migu.php?id=gsws$订阅源-1920x1080
+甘肃卫视,http://20.41.81.202:5000/TVOD/1000000002000017827/ystenlive/index.m3u8$订阅源-1920x1080
 广西卫视,http://27.109.223.213:15000/TVOD/5000000011000031118/bestzb/index.m3u8$澳门
 广西卫视,http://27.109.223.213:15000/TVOD/1000000002000019837/ystenlive/index.m3u8$澳门
 广西卫视,http://27.109.223.213:15000/TVOD/5000000006000040014/bestzb/index.m3u8$澳门
@@ -429,6 +441,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 广西卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226954/71778425.smil$白名单
 广西卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226954/71778425.smil$白名单
 广西卫视,http://tvbox6.icu/tv/migu.php?id=gxws$订阅源-1920x1080
+广西卫视,http://20.41.81.202:5000/TVOD/1000000002000019837/ystenlive/index.m3u8$订阅源-1920x1080
 贵州卫视,http://27.109.223.213:15000/TVOD/5000000004000025843/bestzb/index.m3u8$澳门
 贵州卫视,http://27.109.223.213:15000/TVOD/1000000002000003169/ystenlive/index.m3u8$澳门
 贵州卫视,http://148.135.46.205:50001/TVOD/5000000004000025843/bestzb/index.m3u8$白名单
@@ -443,6 +456,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 贵州卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227310/10000100000000060000000001945854_0.smil$白名单
 贵州卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226833/59814738.smil$白名单
 贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws$订阅源-1920x1080
+贵州卫视,http://20.41.81.202:5000/TVOD/1000000002000003169/ystenlive/index.m3u8$订阅源-1920x1080
 海南卫视,http://27.109.223.213:15000/TVOD/5000000004000006211/bestzb/index.m3u8$澳门
 海南卫视,http://27.109.223.213:15000/TVOD/1000000002000023773/ystenlive/index.m3u8$澳门
 海南卫视,http://148.135.46.205:50001/TVOD/5000000004000006211/bestzb/index.m3u8$白名单
@@ -458,6 +472,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 海南卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226933/70442779.smil$白名单
 海南卫视,http://goo.bkpcp.top/mg/hinws$订阅源-IPv6-1920x1080
 海南卫视,http://tvbox6.icu/tv/migu.php?id=hinws$订阅源-1920x1080
+海南卫视,http://20.41.81.202:5000/TVOD/1000000002000023773/ystenlive/index.m3u8$订阅源-1920x1080
 河北卫视,http://27.109.223.213:15000/TVOD/5000000006000040016/bestzb/index.m3u8$澳门
 河北卫视,http://27.109.223.213:15000/TVOD/1000000002000017118/ystenlive/index.m3u8$澳门
 河北卫视,http://148.135.46.205:50001/TVOD/5000000006000040016/bestzb/index.m3u8$白名单
@@ -471,6 +486,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 河北卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227043/10000100000000060000000000570951_0.smil$白名单
 河北卫视,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227043/10000100000000060000000000570951_0.smil$白名单
 河北卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226821/59781859.smil$白名单
+河北卫视,http://20.41.81.202:5000/TVOD/1000000002000017118/ystenlive/index.m3u8$订阅源-1920x1080
 河南卫视,http://27.109.223.213:15000/TVOD/5000000011000031119/bestzb/index.m3u8$澳门
 河南卫视,http://27.109.223.213:15000/TVOD/1000000002000027731/ystenlive/index.m3u8$澳门
 河南卫视,http://27.109.223.213:15000/TVOD/5000000005000017925/bestzb/index.m3u8$澳门
@@ -507,6 +523,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 吉林卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226831/59814731.smil$白名单
 吉林卫视,http://goo.bkpcp.top/mg/jlws$订阅源-IPv6-1920x1080
 吉林卫视,http://tvbox6.icu/tv/migu.php?id=jlws$订阅源-1920x1080
+吉林卫视,http://20.41.81.202:5000/TVOD/1000000002000027730/ystenlive/index.m3u8$订阅源-1920x1080
 辽宁卫视,http://27.109.223.213:15000/TVOD/5000000004000011671/bestzb/index.m3u8$澳门
 辽宁卫视,http://27.109.223.213:15000/TVOD/1000000001000001945/ystenlive/index.m3u8$澳门
 辽宁卫视,http://27.109.223.213:15000/TVOD/1000000005000265022/ystenlive/index.m3u8$澳门
@@ -533,6 +550,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 内蒙古卫视,http://151.145.33.94:50001/PLTV/1000000002000014080/ystenlive/index.m3u8$白名单
 内蒙古卫视,http://148.135.77.94:50001/1000000002000014080/ystenlive/index.m3u8$白名单
 内蒙古卫视,http://tvbox6.icu/tv/migu.php?id=nmws$订阅源-1920x1080
+内蒙古卫视,http://20.41.81.202:5000/TVOD/1000000002000014080/ystenlive/index.m3u8$订阅源-1920x1080
 宁夏卫视,http://27.109.223.213:15000/TVOD/1000000002000031451/ystenlive/index.m3u8$澳门
 宁夏卫视,http://27.109.223.213:15000/TVOD/5000000006000040022/bestzb/index.m3u8$澳门
 宁夏卫视,http://148.135.46.205:50001/TVOD/1000000002000031451/ystenlive/index.m3u8$白名单
@@ -540,6 +558,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 宁夏卫视,http://151.145.33.94:50001/PLTV/1000000002000031451/ystenlive/index.m3u8$白名单
 宁夏卫视,http://148.135.77.94:50001/1000000002000031451/ystenlive/index.m3u8$白名单
 宁夏卫视,http://tvbox6.icu/tv/migu.php?id=nxws$订阅源-1920x1080
+宁夏卫视,http://20.41.81.202:5000/TVOD/1000000002000031451/ystenlive/index.m3u8$订阅源-1920x1080
 青海卫视,http://27.109.223.213:15000/TVOD/1000000002000013359/ystenlive/index.m3u8$澳门
 青海卫视,http://27.109.223.213:15000/TVOD/5000000006000040015/bestzb/index.m3u8$澳门
 青海卫视,http://148.135.46.205:50001/TVOD/1000000002000013359/ystenlive/index.m3u8$4M1080_易视腾
@@ -548,6 +567,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 青海卫视,http://148.135.77.94:50001/1000000002000013359/ystenlive/index.m3u8$4M1080_易视腾
 青海卫视,http://goo.bkpcp.top/mg/qhws$订阅源-IPv6-1920x1080
 青海卫视,http://tvbox6.icu/tv/migu.php?id=qhws$订阅源-1920x1080
+青海卫视,http://20.41.81.202:5000/TVOD/1000000002000013359/ystenlive/index.m3u8$订阅源-1920x1080
 山东卫视,http://27.109.223.213:15000/TVOD/6000000001000004134/wasusyt/index.m3u8$澳门
 山东卫视,http://27.109.223.213:15000/TVOD/1000000001000016568/ystenlive/index.m3u8$澳门
 山东卫视,http://27.109.223.213:15000/TVOD/5000000004000020424/bestzb/index.m3u8$澳门
@@ -574,6 +594,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 山西卫视,http://166.0.199.145:50001/TVOD/1000000002000021220/ystenlive/index.m3u8$白名单
 山西卫视,http://151.145.33.94:50001/PLTV/1000000002000021220/ystenlive/index.m3u8$白名单
 山西卫视,http://148.135.77.94:50001/1000000002000021220/ystenlive/index.m3u8$白名单
+山西卫视,http://20.41.81.202:5000/TVOD/1000000002000021220/ystenlive/index.m3u8$订阅源-1920x1080
 陕西卫视,http://27.109.223.213:15000/TVOD/1000000002000007495/ystenlive/index.m3u8$澳门
 陕西卫视,http://27.109.223.213:15000/TVOD/5000000006000040017/bestzb/index.m3u8$澳门
 陕西卫视,http://148.135.46.205:50001/TVOD/1000000002000007495/ystenlive/index.m3u8$白名单
@@ -583,6 +604,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws$订阅源-IPv6-1920x1080
 陕西卫视,http://goo.bkpcp.top/mg/sxws$订阅源-IPv6-1920x1080
 陕西卫视,http://tvbox6.icu/tv/migu.php?id=sxws$订阅源-1920x1080
+陕西卫视,http://20.41.81.202:5000/TVOD/1000000002000007495/ystenlive/index.m3u8$订阅源-1920x1080
 四川卫视,http://27.109.223.213:15000/TVOD/5000000004000006119/bestzb/index.m3u8$澳门
 四川卫视,http://27.109.223.213:15000/TVOD/1000000002000016825/ystenlive/index.m3u8$澳门
 四川卫视,http://148.135.46.205:50001/TVOD/5000000004000006119/bestzb/index.m3u8$7.5M1080_百视通
@@ -596,6 +618,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 四川卫视,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227233/10000100000000060000000000680028_0.smil$白名单
 四川卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227233/10000100000000060000000000680028_0.smil$白名单
 四川卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226693/51813384.smil$白名单
+四川卫视,http://20.41.81.202:5000/TVOD/1000000002000016825/ystenlive/index.m3u8$订阅源-1920x1080
 天津卫视,http://27.109.223.213:15000/TVOD/5000000004000006827/bestzb/index.m3u8$澳门
 天津卫视,http://27.109.223.213:15000/TVOD/6000000001000009186/wasusyt/index.m3u8$澳门
 天津卫视,http://27.109.223.213:15000/TVOD/1000000001000003475/ystenlive/index.m3u8$澳门
@@ -623,6 +646,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 西藏卫视,http://148.135.77.94:50001/1000000002000015894/ystenlive/index.m3u8$白名单
 西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws$订阅源-IPv6-1920x1080
 西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws$订阅源-1920x1080
+西藏卫视,http://20.41.81.202:5000/TVOD/1000000002000015894/ystenlive/index.m3u8$订阅源-1920x1080
 新疆卫视,http://27.109.223.213:15000/TVOD/1000000002000029441/ystenlive/index.m3u8$澳门
 新疆卫视,http://27.109.223.213:15000/TVOD/5000000006000040018/bestzb/index.m3u8$澳门
 新疆卫视,http://148.135.46.205:50001/TVOD/1000000002000029441/ystenlive/index.m3u8$白名单
@@ -630,6 +654,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 新疆卫视,http://151.145.33.94:50001/PLTV/1000000002000029441/ystenlive/index.m3u8$白名单
 新疆卫视,http://148.135.77.94:50001/1000000002000029441/ystenlive/index.m3u8$白名单
 新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws$订阅源-1920x1080
+新疆卫视,http://20.41.81.202:5000/TVOD/1000000002000029441/ystenlive/index.m3u8$订阅源-1920x1080
 云南卫视,http://27.109.223.213:15000/TVOD/5000000011000031120/bestzb/index.m3u8$澳门
 云南卫视,http://27.109.223.213:15000/TVOD/1000000002000024694/ystenlive/index.m3u8$澳门
 云南卫视,http://27.109.223.213:15000/TVOD/5000000006000040019/bestzb/index.m3u8$澳门
@@ -645,16 +670,20 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
 云南卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227301/10000100000000060000000001945852_0.smil$白名单
 云南卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226937/72640386.smil$白名单
 云南卫视,http://tvbox6.icu/tv/migu.php?id=ynws$订阅源-1920x1080
+云南卫视,http://20.41.81.202:5000/TVOD/1000000002000024694/ystenlive/index.m3u8$订阅源-1920x1080
 
 ⛹️体育频道,#genre#
 CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5$订阅源-IPv6-1920x1080
 CCTV5,http://goo.bkpcp.top/mg/cctv5$订阅源-IPv6-1920x1080
 CCTV5,http://tvbox6.icu/tv/migu.php?id=cctv5$订阅源-1920x1080
-CCTV5,http://39.170.52.236:808/hls/5/index.m3u8$订阅源-1920x1080
+CCTV5,http://20.41.81.202:5000/TVOD/1000000005000025222/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源-IPv6-1920x1080
 CCTV5+,http://goo.bkpcp.top/mg/cctv5p$订阅源-IPv6-1920x1080
 CCTV5+,http://tvbox6.icu/tv/migu.php?id=cctv5p$订阅源-1920x1080
+CCTV5+,http://20.41.81.202:5000/TVOD/1000000001000018504/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV16,http://goo.bkpcp.top/mg/cctv16$订阅源-IPv6-1920x1080
+CCTV16,http://20.41.81.202:5000/TVOD/1000000006000233002/ystenlive/index.m3u8$订阅源-1920x1080
+CCTV16-4K,http://20.41.81.202:5000/TVOD/5000000008000023254/bestzb/index.m3u8$订阅源-1920x1080
 广东体育,http://6v.nx.tc/smrt.php?playurl=https://cdn2.163189.xyz/live/gdty/stream.m3u8$白名单
 纬来体育,http://60.248.77.83/sat/tv721.flv$白名单
 纬来体育,rtmp://116.93.98.236/sat/tv721$白名单
@@ -693,6 +722,7 @@ CCTV16,http://goo.bkpcp.top/mg/cctv16$订阅源-IPv6-1920x1080
 CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14$订阅源-IPv6-1920x1080
 CCTV14,http://goo.bkpcp.top/mg/cctv14$订阅源-IPv6-1920x1080
 CCTV14,http://tvbox6.icu/tv/migu.php?id=cctv14$订阅源-1920x1080
+CCTV14,http://20.41.81.202:5000/TVOD/1000000001000008170/ystenlive/index.m3u8$订阅源-1920x1080
 江西少儿,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227089/10000100000000060000000000582672_0.smil$白名单
 江西少儿,rtsp://115.153.245.70/PLTV/88888888/224/3221226938/68733921.smil$白名单
 江西少儿,http://local-live.jxtvcn.com.cn/live/tv_jxtv6.flv$白名单
@@ -705,6 +735,7 @@ CCTV14,http://tvbox6.icu/tv/migu.php?id=cctv14$订阅源-1920x1080
 北京卡酷少儿,http://166.0.199.145:50001/TVOD/1000000002000002413/ystenlive/index.m3u8$白名单
 北京卡酷少儿,http://151.145.33.94:50001/PLTV/1000000002000002413/ystenlive/index.m3u8$白名单
 北京卡酷少儿,http://148.135.77.94:50001/1000000002000002413/ystenlive/index.m3u8$白名单
+北京卡酷少儿,http://20.41.81.202:5000/TVOD/1000000002000002413/ystenlive/index.m3u8$订阅源-1920x1080
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8$订阅源-IPv6-1920x1080
 金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287$订阅源-1920x1080
 动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83$订阅源-1920x1080
@@ -717,18 +748,20 @@ CCTV14,http://tvbox6.icu/tv/migu.php?id=cctv14$订阅源-1920x1080
 黑莓动画,http://151.145.33.94:50001/PLTV/1000000004000021734/ystenlive/index.m3u8$4M1080_易视腾
 黑莓动画,http://148.135.77.94:50001/2000000003000000002/hnbblive/index.m3u8$白名单
 黑莓动画,http://148.135.77.94:50001/1000000004000021734/ystenlive/index.m3u8$4M1080_易视腾
+黑莓动画,http://20.41.81.202:5000/TVOD/1000000004000021734/ystenlive/index.m3u8$订阅源-1920x1080
 
 🎵音乐频道,#genre#
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源-IPv6-1920x1080
 CCTV15,http://goo.bkpcp.top/mg/cctv15$订阅源-IPv6-1920x1080
 CCTV15,http://tvbox6.icu/tv/migu.php?id=cctv15$订阅源-1920x1080
+CCTV15,http://20.41.81.202:5000/TVOD/1000000005000265014/ystenlive/index.m3u8$订阅源-1920x1080
 CCTV风云音乐,http://tvbox6.icu/tv/iptv2.php?id=33$订阅源-1920x1080
 
 🎬影院频道,#genre#
 CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6$订阅源-IPv6-1920x1080
 CCTV6,http://goo.bkpcp.top/mg/cctv6$订阅源-IPv6-1920x1080
 CCTV6,http://tvbox6.icu/tv/migu.php?id=cctv6$订阅源-1920x1080
-CCTV6,http://39.170.52.236:808/hls/6/index.m3u8$订阅源-1920x1080
+CCTV6,http://20.41.81.202:5000/TVOD/1000000001000001737/ystenlive/index.m3u8$订阅源-1920x1080
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy$订阅源-1920x1080
 CHC影迷电影,http://tvbox6.icu/tv/iptv2.php?id=88$订阅源-1920x1080
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy$订阅源-1920x1080
@@ -741,23 +774,28 @@ CCTV怀旧剧场,http://tvbox6.icu/tv/iptv2.php?id=26$订阅源-1920x1080
 华语影院,http://166.0.199.145:50001/TVOD/5000000011000288005/bestzb/index.m3u8$白名单
 华语影院,http://151.145.33.94:50001/PLTV/5000000011000288005/bestzb/index.m3u8$白名单
 华语影院,http://148.135.77.94:50001/5000000011000288005/bestzb/index.m3u8$白名单
+华语影院,http://20.41.81.202:5000/TVOD/5000000011000288005/bestzb/index.m3u8$订阅源-1920x1080
 星光影院,http://27.109.223.213:15000/TVOD/5000000011000288013/bestzb/index.m3u8$澳门
 星光影院,http://148.135.46.205:50001/TVOD/5000000011000288013/bestzb/index.m3u8$白名单
 星光影院,http://166.0.199.145:50001/TVOD/5000000011000288013/bestzb/index.m3u8$白名单
 星光影院,http://151.145.33.94:50001/PLTV/5000000011000288013/bestzb/index.m3u8$白名单
 星光影院,http://148.135.77.94:50001/5000000011000288013/bestzb/index.m3u8$白名单
+星光影院,http://20.41.81.202:5000/TVOD/5000000011000288013/bestzb/index.m3u8$订阅源-1920x1080
 全球大片,http://27.109.223.213:15000/TVOD/5000000011000288009/bestzb/index.m3u8$澳门
 全球大片,http://148.135.46.205:50001/TVOD/5000000011000288009/bestzb/index.m3u8$白名单
 全球大片,http://166.0.199.145:50001/TVOD/5000000011000288009/bestzb/index.m3u8$白名单
 全球大片,http://151.145.33.94:50001/PLTV/5000000011000288009/bestzb/index.m3u8$白名单
 全球大片,http://148.135.77.94:50001/5000000011000288009/bestzb/index.m3u8$白名单
+全球大片,http://20.41.81.202:5000/TVOD/5000000011000288009/bestzb/index.m3u8$订阅源-1920x1080
 热门剧场,http://27.109.223.213:15000/TVOD/5000000011000288010/bestzb/index.m3u8$澳门
 热门剧场,http://148.135.46.205:50001/TVOD/5000000011000288010/bestzb/index.m3u8$白名单
 热门剧场,http://166.0.199.145:50001/TVOD/5000000011000288010/bestzb/index.m3u8$白名单
 热门剧场,http://151.145.33.94:50001/PLTV/5000000011000288010/bestzb/index.m3u8$白名单
 热门剧场,http://148.135.77.94:50001/5000000011000288010/bestzb/index.m3u8$白名单
+热门剧场,http://20.41.81.202:5000/TVOD/5000000011000288010/bestzb/index.m3u8$订阅源-1920x1080
 谍战剧场,http://27.109.223.213:15000/TVOD/5000000011000288004/bestzb/index.m3u8$澳门
 谍战剧场,http://148.135.46.205:50001/TVOD/5000000011000288004/bestzb/index.m3u8$白名单
 谍战剧场,http://166.0.199.145:50001/TVOD/5000000011000288004/bestzb/index.m3u8$白名单
 谍战剧场,http://151.145.33.94:50001/PLTV/5000000011000288004/bestzb/index.m3u8$白名单
 谍战剧场,http://148.135.77.94:50001/5000000011000288004/bestzb/index.m3u8$白名单
+谍战剧场,http://20.41.81.202:5000/TVOD/5000000011000288004/bestzb/index.m3u8$订阅源-1920x1080
