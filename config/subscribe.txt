@@ -1,6 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 http://27.109.223.213:15000/Sub?type=txt
+http://154.7.177.5:5000/Sub?type=txt
+http://64.110.88.151:5000/Sub?type=txt
 http://148.135.46.205:50001/Sub?type=txt
 http://166.0.199.145:50001/Sub?type=txt
 http://151.145.33.94:50001/Sub?type=txt
