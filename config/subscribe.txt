@@ -16,7 +16,6 @@ http://www.lyyytv.cn/yt/zhibo/1.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 https://7337.kstore.space/twkj/tvzb.txt 
 http://39.101.135.137:8081/xx3.txt
-http://tvbox6.icu/live.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
