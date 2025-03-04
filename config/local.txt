@@ -68,6 +68,16 @@
 江西少儿,rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv6$!江西
 江西少儿,http://local-live.jxtvcn.com.cn/live/tv_jxtv6.m3u8$!江西
 
+TVBS,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一TVBS$!zb
+TVBPLUS,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一TVBP$!zb
+TVBS新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一TVBS新闻$!zb
+中天新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一中天新闻$!zb
+中天亚洲,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一中天亚洲$!zb
+东森新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一东森新闻$!zb
+寰宇新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一寰宇新闻$!zb
+中天新闻,http://154.12.37.195:50002/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true$!zb
+寰宇新闻,http://154.12.37.195:50002/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true$!zb
+
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$!cdn
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx$!cdn
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8$!cdn
