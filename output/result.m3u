@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="央视春晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视春晚.png" group-title="🕘️更新时间",2025-03-05 18:18:41
+#EXTINF:-1 tvg-name="央视春晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视春晚.png" group-title="🕘️更新时间",2025-03-06 06:17:59
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
 #EXTINF:-1 tvg-name="央视春晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视春晚.png" group-title="🎉2025春晚",央视春晚
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
@@ -2074,9 +2074,9 @@ http://20.41.81.202:5000/TVOD/1000000002000007495/ystenlive/index.m3u8$韩国20.
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="💫卫视频道",陕西卫视
 http://20.41.81.202:5000/TVOD/5000000006000040017/bestzb/index.m3u8$韩国20.41
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="💫卫视频道",陕西卫视
-http://z.b.bkpcp.top/m.php?id=sxws$订阅源-IPv6-1920x1080
+http://gat.bkpcp.top/ymg.php?id=sxws$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="💫卫视频道",陕西卫视
-http://goo.bkpcp.top/mg/sxws$订阅源-IPv6-1920x1080
+http://z.b.bkpcp.top/m.php?id=sxws$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="💫卫视频道",四川卫视
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227233/10000100000000060000000000680028_0.smil$江西联通
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="💫卫视频道",四川卫视
@@ -2123,6 +2123,8 @@ http://221.130.100.201:8115/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/2
 http://221.130.100.201:8251/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8$江苏移动
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="💫卫视频道",三沙卫视
 http://221.130.100.201:8427/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8$江苏移动
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="💫卫视频道",三沙卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=ssws$订阅源-1920x1080
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="💫卫视频道",天津卫视
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227232/10000100000000060000000000680050_0.smil$江西联通
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="💫卫视频道",天津卫视
@@ -2464,15 +2466,15 @@ http://221.130.100.201:8581/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/2
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="⛹️体育频道",睛彩广场舞
 http://tvbox6.icu/tv/zb/zjctcc.php?id=345$订阅源-1920x1080
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="⛹️体育频道",风云足球
-http://goo.bkpcp.top/mg/mlzq$订阅源-IPv6-1920x1080
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="⛹️体育频道",风云足球
 http://gat.bkpcp.top/ymg.php?id=mlzq$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="⛹️体育频道",风云足球
+http://goo.bkpcp.top/mg/mlzq$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="⛹️体育频道",风云足球
 http://tvbox6.icu/tv/migu.php?id=mlzq$订阅源-1920x1080
 #EXTINF:-1 tvg-name="足球频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/足球频道.png" group-title="⛹️体育频道",足球频道
-http://goo.bkpcp.top/mg/mlzq$订阅源-IPv6-1920x1080
-#EXTINF:-1 tvg-name="足球频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/足球频道.png" group-title="⛹️体育频道",足球频道
 http://gat.bkpcp.top/ymg.php?id=mlzq$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="足球频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/足球频道.png" group-title="⛹️体育频道",足球频道
+http://goo.bkpcp.top/mg/mlzq$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="足球频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/足球频道.png" group-title="⛹️体育频道",足球频道
 http://tvbox6.icu/tv/migu.php?id=mlzq$订阅源-1920x1080
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力足球.png" group-title="⛹️体育频道",魅力足球
@@ -2484,11 +2486,11 @@ http://154.7.177.5:5000/TVOD/5000000011000031207/bestzb/index.m3u8$美国154.7.1
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力足球.png" group-title="⛹️体育频道",魅力足球
 http://154.7.177.5:5000/TVOD/2000000002000000068/hnbblive/index.m3u8$美国154.7.177.5
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力足球.png" group-title="⛹️体育频道",魅力足球
+http://gat.bkpcp.top/ymg.php?id=mlzq$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力足球.png" group-title="⛹️体育频道",魅力足球
 http://z.b.bkpcp.top/m.php?id=mlzq$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力足球.png" group-title="⛹️体育频道",魅力足球
 http://goo.bkpcp.top/mg/mlzq$订阅源-IPv6-1920x1080
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力足球.png" group-title="⛹️体育频道",魅力足球
-http://gat.bkpcp.top/ymg.php?id=mlzq$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力足球.png" group-title="⛹️体育频道",魅力足球
 http://tvbox6.icu/tv/migu.php?id=mlzq$订阅源-1920x1080
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="⛹️体育频道",快乐垂钓
@@ -2662,6 +2664,8 @@ http://z.b.bkpcp.top/m.php?id=ymkt$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="👶少儿频道",优漫卡通
 http://tvbox6.icu/tv/migu.php?id=ymkt$订阅源-1920x1080
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="👶少儿频道",新动漫
+http://8.218.190.107:80/douyu/9548279$订阅源-1920x1080
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="👶少儿频道",新动漫
 http://61.133.118.228:5001/douyu/9548279$订阅源-1920x1080
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="👶少儿频道",新动漫
 http://124.248.69.76:26781/douyu/9548279$订阅源-1920x1080
@@ -2808,11 +2812,11 @@ http://tvbox6.icu/tv/migu.php?id=chcdzdy$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="🎬影院频道",CHC影迷电影
 http://tvbox6.icu/tv/iptv2.php?id=88$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬影院频道",CHC家庭影院
+http://gat.bkpcp.top/ymg.php?id=jtyy$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬影院频道",CHC家庭影院
 http://z.b.bkpcp.top/m.php?id=chcjtyy$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬影院频道",CHC家庭影院
 http://goo.bkpcp.top/mg/jtyy$订阅源-IPv6-1920x1080
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬影院频道",CHC家庭影院
-http://gat.bkpcp.top/ymg.php?id=jtyy$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬影院频道",CHC家庭影院
 http://tvbox6.icu/tv/migu.php?id=chcjtdy$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV第一剧场.png" group-title="🎬影院频道",CCTV第一剧场
