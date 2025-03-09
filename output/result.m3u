@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="央视春晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视春晚.png" group-title="🕘️更新时间",2025-03-09 06:13:33
+#EXTINF:-1 tvg-name="央视春晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视春晚.png" group-title="🕘️更新时间",2025-03-09 18:15:18
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
 #EXTINF:-1 tvg-name="央视春晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视春晚.png" group-title="🎉2025春晚",央视春晚
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
@@ -22,12 +22,6 @@ rtsp://118.212.169.207:554/PLTV/88888888/224/3221226961/100001000000000600000000
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡江西频道",江西卫视
 rtsp://115.153.245.70/PLTV/88888888/224/3221226656/46275837.smil$江西电信
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡江西频道",江西卫视
-http://local-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8$江西
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡江西频道",江西卫视
-http://local-live.jxtvcn.com.cn/live/tv_jxtv1.flv$江西
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡江西频道",江西卫视
-rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv1$江西
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡江西频道",江西卫视
 http://27.109.223.213:15000/TVOD/1000000006000268001/ystenlive/index.m3u8$澳门
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡江西频道",江西卫视
 http://27.109.223.213:15000/TVOD/5000000004000011210/bestzb/index.m3u8$澳门
@@ -47,6 +41,12 @@ http://140.238.2.76:5000/TVOD/5000000004000011210/bestzb/index.m3u8$韩国140.23
 http://64.110.88.151:5000/TVOD/1000000006000268001/ystenlive/index.m3u8$瑞士64.110.88
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡江西频道",江西卫视
 http://64.110.88.151:5000/TVOD/5000000004000011210/bestzb/index.m3u8$瑞士64.110.88
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡江西频道",江西卫视
+http://151.145.33.94:50001/PLTV/1000000006000268001/ystenlive/index.m3u8$美国
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡江西频道",江西卫视
+http://151.145.33.94:50001/PLTV/5000000004000011210/bestzb/index.m3u8$美国
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡江西频道",江西卫视
+http://166.0.199.145:50001/TVOD/1000000006000268001/ystenlive/index.m3u8$美国166.0.199
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西新闻.png" group-title="📡江西频道",江西新闻
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227051/10000100000000060000000000571126_0.smil$江西联通
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西新闻.png" group-title="📡江西频道",江西新闻
@@ -67,12 +67,6 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221227069/94448631.smil$江西电信
 rtsp://115.153.212.72/PLTV/88888888/224/3221227069/94448631.smil$江西电信
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西都市.png" group-title="📡江西频道",江西都市
 rtsp://115.153.233.154/PLTV/88888888/224/3221227069/94448631.smil$江西电信
-#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西都市.png" group-title="📡江西频道",江西都市
-http://local-live.jxtvcn.com.cn/live/tv_jxtv2.m3u8$江西
-#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西都市.png" group-title="📡江西频道",江西都市
-http://local-live.jxtvcn.com.cn/live/tv_jxtv2.flv$江西
-#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西都市.png" group-title="📡江西频道",江西都市
-rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv2$江西
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西公共农业.png" group-title="📡江西频道",江西公共农业
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221226948/10000100000000060000000000527279_0.smil$江西联通
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西公共农业.png" group-title="📡江西频道",江西公共农业
@@ -702,12 +696,6 @@ rtsp://118.212.169.207:554/PLTV/88888888/224/3221226961/100001000000000600000000
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="💫卫视频道",江西卫视
 rtsp://115.153.245.70/PLTV/88888888/224/3221226656/46275837.smil$江西电信
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="💫卫视频道",江西卫视
-http://local-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8$江西
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="💫卫视频道",江西卫视
-http://local-live.jxtvcn.com.cn/live/tv_jxtv1.flv$江西
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="💫卫视频道",江西卫视
-rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv1$江西
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="💫卫视频道",江西卫视
 http://27.109.223.213:15000/TVOD/1000000006000268001/ystenlive/index.m3u8$澳门
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="💫卫视频道",江西卫视
 http://27.109.223.213:15000/TVOD/5000000004000011210/bestzb/index.m3u8$澳门
@@ -727,6 +715,12 @@ http://140.238.2.76:5000/TVOD/5000000004000011210/bestzb/index.m3u8$韩国140.23
 http://64.110.88.151:5000/TVOD/1000000006000268001/ystenlive/index.m3u8$瑞士64.110.88
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="💫卫视频道",江西卫视
 http://64.110.88.151:5000/TVOD/5000000004000011210/bestzb/index.m3u8$瑞士64.110.88
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="💫卫视频道",江西卫视
+http://151.145.33.94:50001/PLTV/1000000006000268001/ystenlive/index.m3u8$美国
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="💫卫视频道",江西卫视
+http://151.145.33.94:50001/PLTV/5000000004000011210/bestzb/index.m3u8$美国
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="💫卫视频道",江西卫视
+http://166.0.199.145:50001/TVOD/1000000006000268001/ystenlive/index.m3u8$美国166.0.199
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="💫卫视频道",江苏卫视
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227235/10000100000000060000000000680027_0.smil$江西联通
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="💫卫视频道",江苏卫视
@@ -1715,36 +1709,126 @@ http://154.7.177.5:5000/TVOD/5000000011000031207/bestzb/index.m3u8$美国154.7.1
 http://154.7.177.5:5000/TVOD/2000000002000000068/hnbblive/index.m3u8$美国154.7.177.5
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="⛹️体育频道",快乐垂钓
 rtsp://115.153.245.70/PLTV/88888888/224/3221226834/59781974.smil$江西电信
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
 http://27.109.223.213:15000/TVOD/3000000020000011528/FifastbLive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
 http://27.109.223.213:15000/TVOD/3000000020000011529/FifastbLive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
 http://27.109.223.213:15000/TVOD/3000000020000011530/FifastbLive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
 http://27.109.223.213:15000/TVOD/3000000020000011531/FifastbLive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
+http://8.210.132.219:5000/3000000020000011528/FifastbLive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
+http://8.210.132.219:5000/3000000020000011529/FifastbLive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
+http://8.210.132.219:5000/3000000020000011530/FifastbLive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
+http://8.210.132.219:5000/3000000020000011531/FifastbLive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
+http://149.129.82.127:5000/TVOD/3000000020000011528/FifastbLive/index.m3u8$香港149.129.82
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
+http://149.129.82.127:5000/TVOD/3000000020000011529/FifastbLive/index.m3u8$香港149.129.82
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
+http://149.129.82.127:5000/TVOD/3000000020000011530/FifastbLive/index.m3u8$香港149.129.82
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
+http://149.129.82.127:5000/TVOD/3000000020000011531/FifastbLive/index.m3u8$香港149.129.82
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
+http://140.238.2.76:5000/TVOD/3000000020000011528/FifastbLive/index.m3u8$韩国140.238.
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
+http://140.238.2.76:5000/TVOD/3000000020000011529/FifastbLive/index.m3u8$韩国140.238.
+#EXTINF:-1 tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频1.png" group-title="🏀咪咕频道",咪咕视频1
+http://140.238.2.76:5000/TVOD/3000000020000011530/FifastbLive/index.m3u8$韩国140.238.
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
 http://27.109.223.213:15000/TVOD/2000000003000000060/hnbblive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
 http://27.109.223.213:15000/TVOD/2000000003000000061/hnbblive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
 http://27.109.223.213:15000/TVOD/2000000003000000062/hnbblive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
 http://27.109.223.213:15000/TVOD/2000000003000000063/hnbblive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
 http://27.109.223.213:15000/TVOD/2000000003000000064/hnbblive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
 http://27.109.223.213:15000/TVOD/2000000003000000065/hnbblive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
+http://8.210.132.219:5000/2000000003000000060/hnbblive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
+http://8.210.132.219:5000/2000000003000000061/hnbblive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
+http://8.210.132.219:5000/2000000003000000062/hnbblive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
+http://8.210.132.219:5000/2000000003000000063/hnbblive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
+http://8.210.132.219:5000/2000000003000000064/hnbblive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
+http://8.210.132.219:5000/2000000003000000065/hnbblive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
+http://149.129.82.127:5000/TVOD/2000000003000000060/hnbblive/index.m3u8$香港149.129.82
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
+http://149.129.82.127:5000/TVOD/2000000003000000061/hnbblive/index.m3u8$香港149.129.82
+#EXTINF:-1 tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频2.png" group-title="🏀咪咕频道",咪咕视频2
+http://149.129.82.127:5000/TVOD/2000000003000000062/hnbblive/index.m3u8$香港149.129.82
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
 http://27.109.223.213:15000/TVOD/1000000006000270001/ystenlive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
 http://27.109.223.213:15000/TVOD/1000000006000270002/ystenlive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
 http://27.109.223.213:15000/TVOD/1000000006000270003/ystenlive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
 http://27.109.223.213:15000/TVOD/1000000006000270004/ystenlive/index.m3u8$澳门
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🏀咪咕频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
 http://27.109.223.213:15000/TVOD/1000000006000270005/ystenlive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
+http://27.109.223.213:15000/TVOD/1000000006000270006/ystenlive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
+http://8.210.132.219:5000/1000000006000270001/ystenlive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
+http://8.210.132.219:5000/1000000006000270002/ystenlive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
+http://8.210.132.219:5000/1000000006000270003/ystenlive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
+http://8.210.132.219:5000/1000000006000270004/ystenlive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
+http://8.210.132.219:5000/1000000006000270005/ystenlive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
+http://8.210.132.219:5000/1000000006000270006/ystenlive/index.m3u8$香港8.210.132
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
+http://149.129.82.127:5000/TVOD/1000000006000270001/ystenlive/index.m3u8$香港149.129.82
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
+http://149.129.82.127:5000/TVOD/1000000006000270002/ystenlive/index.m3u8$香港149.129.82
+#EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频3.png" group-title="🏀咪咕频道",咪咕视频3
+http://149.129.82.127:5000/TVOD/1000000006000270003/ystenlive/index.m3u8$香港149.129.82
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000000097/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000002019/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000002809/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000003915/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000004193/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000006077/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000006658/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000009788/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000010833/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000011297/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000011518/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000012558/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000012616/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000015470/FifastbLive/index.m3u8$澳门
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频4.png" group-title="🏀咪咕频道",咪咕视频4
+http://27.109.223.213:15000/TVOD/3000000010000015560/FifastbLive/index.m3u8$澳门
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="👶少儿频道",CCTV14
 rtsp://115.153.245.70/PLTV/88888888/224/3221226634/51813368.smil$江西电信
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="👶少儿频道",CCTV14
