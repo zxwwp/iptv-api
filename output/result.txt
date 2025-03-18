@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-18 06:18:46,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
+2025-03-18 18:17:30,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
 
 🎉2025春晚,#genre#
 央视春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
@@ -853,6 +853,7 @@ CCTV16-4K,http://166.0.199.145:50001/TVOD/5000000008000023254/bestzb/index.m3u8$
 CCTV16-4K,http://154.7.177.5:5000/TVOD/5000000008000023254/bestzb/index.m3u8$美国154.7.177.5
 广东体育,http://6v.nx.tc/smrt.php?playurl=https://cdn2.163189.xyz/live/gdty/stream.m3u8$6v
 纬来体育,http://60.248.77.83/sat/tv721.flv$江西
+纬来体育,rtmp://116.93.98.236/sat/tv721$江西
 五星体育,http://64.110.88.151:5000/TVOD/5000000010000017540/bestzb/index.m3u8$瑞士64.110.88
 五星体育,http://64.110.88.151:5000/TVOD/2000000002000000007/hnbblive/index.m3u8$瑞士64.110.88
 五星体育,http://154.7.177.5:5000/TVOD/5000000010000017540/bestzb/index.m3u8$美国154.7.177.5
