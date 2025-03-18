@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="央视春晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视春晚.png" group-title="🕘️更新时间",2025-03-18 18:17:30
+#EXTINF:-1 tvg-name="央视春晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视春晚.png" group-title="🕘️更新时间",2025-03-19 06:17:11
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
 #EXTINF:-1 tvg-name="央视春晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视春晚.png" group-title="🎉2025春晚",央视春晚
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
@@ -1683,8 +1683,6 @@ http://154.7.177.5:5000/TVOD/5000000008000023254/bestzb/index.m3u8$美国154.7.1
 http://6v.nx.tc/smrt.php?playurl=https://cdn2.163189.xyz/live/gdty/stream.m3u8$6v
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="⛹️体育频道",纬来体育
 http://60.248.77.83/sat/tv721.flv$江西
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="⛹️体育频道",纬来体育
-rtmp://116.93.98.236/sat/tv721$江西
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="⛹️体育频道",五星体育
 http://64.110.88.151:5000/TVOD/5000000010000017540/bestzb/index.m3u8$瑞士64.110.88
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="⛹️体育频道",五星体育
