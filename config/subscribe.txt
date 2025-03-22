@@ -1,5 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+https://gh-proxy.com/https://raw.githubusercontent.com/yuanke99/itv/refs/heads/main/tv.m3u
+https://ghproxy.net/https://raw.githubusercontent.com/yuanke99/itv/main/allinone.m3u
 https://raw.kkgithub.com/lg-yyds/iptv-api/master/output/result.txt
 http://jp-2.frp.one:25800/tv.m3u
 http://home.wwang.pw:35455/tv.m3u
