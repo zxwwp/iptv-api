@@ -1,8 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://ghproxy.net/https://raw.githubusercontent.com/yuanke99/itv/refs/heads/main/tv.m3u
-https://ghproxy.net/https://raw.githubusercontent.com/yuanke99/itv/main/allinone.m3u
-https://wget.la/https://raw.githubusercontent.com/ic005k/itv/main/CCTV1.m3u
+https://raw.githubusercontent.com/yuanke99/itv/refs/heads/main/tv.m3u
+https://raw.githubusercontent.com/yuanke99/itv/main/allinone.m3u
+https://raw.githubusercontent.com/ic005k/itv/main/CCTV1.m3u
 https://raw.kkgithub.com/lg-yyds/iptv-api/master/output/result.txt
 http://jp-2.frp.one:25800/tv.m3u
 http://home.wwang.pw:35455/tv.m3u
@@ -13,6 +13,6 @@ http://www.lyyytv.cn/yt/zhibo/1.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 https://7337.kstore.space/twkj/tvzb.txt 
 http://39.101.135.137:8081/xx3.txt
-https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
