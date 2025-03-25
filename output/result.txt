@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-25 18:20:38,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
+2025-03-26 06:17:56,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
 
 🎉2025春晚,#genre#
 央视春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
@@ -58,7 +58,6 @@ TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8$cdn
 
 ⛹️体育频道,#genre#
 纬来体育,http://60.248.77.83/sat/tv721.flv$江西
-纬来体育,rtmp://116.93.98.236/sat/tv721$江西
 
 🏀咪咕频道,#genre#
 
