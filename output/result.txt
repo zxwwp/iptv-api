@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-25 06:20:13,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
+2025-03-25 18:20:38,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
 
 🎉2025春晚,#genre#
 央视春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$春晚
@@ -22,6 +22,7 @@
 凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8$白名单
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$cdn
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx$cdn
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$php
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$php
 凤凰资讯,http://php.jdshipin.com:8880/iptv.php?id=fhzx$php
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx$php
@@ -57,6 +58,7 @@ TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8$cdn
 
 ⛹️体育频道,#genre#
 纬来体育,http://60.248.77.83/sat/tv721.flv$江西
+纬来体育,rtmp://116.93.98.236/sat/tv721$江西
 
 🏀咪咕频道,#genre#
 
