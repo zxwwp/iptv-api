@@ -1,6 +1,29 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
+http://dsj.motem.top:8880/tv.m3u
+http://13937899.xyz:35455/tv.m3u
+http://8.138.7.223/live.txt
+http://www.lyyytv.cn/yt/zhibo/1.txt
+http://home.jundie.top:81/Cat/tv/live.txt
+http://tvbox6.icu/live.txt
+https://live.kilvn.com/iptv.m3u
+https://raw.kkgithub.com/lg-yyds/iptv-api/master/output/result.txt
+https://raw.kkgithub.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+https://live.zbds.top/tv/iptv6.txt
+https://live.zbds.top/tv/iptv4.txt
+https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+https://aktv.top/live.txt
+https://raw.kkgithub.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.kkgithub.com/suxuang/myIPTV/main/ipv4.m3u
+http://home.jundie.top:81/Cat/tv/live.txt
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/yuanke99/itv/refs/heads/main/tv.m3u
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/yuanke99/itv/main/allinone.m3u
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/ic005k/itv/main/CCTV1.m3u
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
